@@ -1,0 +1,38 @@
+== Info: About to connect() to dl5.filecondo.com port 80 (#0)
+== Info:   Trying 111.223.32.207... == Info: connected
+=> Send header, 214 bytes (0xd6)
+0000: GET /download_regular_active.php?file=h22fd81sXbJp HTTP/1.1
+003d: User-Agent: curl/7.22.0 (x86_64-pc-linux-gnu) libcurl/7.22.0 Ope
+007d: nSSL/1.0.1 zlib/1.2.3.4 libidn/1.23 librtmp/2.3
+00ae: Host: dl5.filecondo.com
+00c7: Accept: */*
+00d4: 
+<= Recv header, 17 bytes (0x11)
+0000: HTTP/1.1 200 OK
+<= Recv header, 37 bytes (0x25)
+0000: Date: Fri, 03 Aug 2012 17:58:51 GMT
+<= Recv header, 32 bytes (0x20)
+0000: Server: Apache/2.2.17 (Ubuntu)
+<= Recv header, 37 bytes (0x25)
+0000: X-Powered-By: PHP/5.3.5-1ubuntu7.10
+<= Recv header, 23 bytes (0x17)
+0000: Vary: Accept-Encoding
+<= Recv header, 21 bytes (0x15)
+0000: Content-Length: 598
+<= Recv header, 25 bytes (0x19)
+0000: Content-Type: text/html
+<= Recv header, 2 bytes (0x2)
+0000: 
+<= Recv data, 598 bytes (0x256)
+0000: <head><meta http-equiv='Content-Type' content='text/html; charse
+0040: t=utf-8' /></head><body>.............................. .........
+0080: ................................................................
+00c0: ..... Slot Download ............ (59.7 %) ......................
+0100: ........................................................... ....
+0140: ........ <a href='http://www.filecondo.com/vip.php'>............
+0180: ... VIP ........................................................
+01c0: ....</a><br>HEAVY TRAFFIC - Slot for normal download is full. Co
+0200: me back again later or <a href='http://www.filecondo.com/vip.php
+0240: '>apply VIP</a></body>
+== Info: Connection #0 to host dl5.filecondo.com left intact
+== Info: Closing connection #0
