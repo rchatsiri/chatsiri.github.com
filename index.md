@@ -1,46 +1,33 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: 
+tagline: [Aboutme,Profile]
 ---
 {% include JB/setup %}
+<img class='inset right' src='/images/chatsiri_metting.jpg' title='Chatsiri Rattana' alt='Pofile home page' width='120px' />
+สวัสดี/ສະບາຍດີ/Hello
+=======
+I'm live in Bangkok/BKK/กรุงเทพมหานคร. It's captital of Thailand/TH/ไทยแลนด์ (Not means It's all of Thailand). This time leave with out pay from [INFOMAX](http://www.infomax.co.th/) to resume my education at [HCPNC](http://hpcnc.cpe.ku.ac.th/)/Computer Engineering/Kasetsart University.
 
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
++--	{.section}
+Blog
+========
+My short note and technique note of work with programming field.
+=--
 
-Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
 
-## Update Author Attributes
++--	{.section}
+Research
+========
+Research in HPCNC labroratory. 
+1) OpenCL Optimized for Clamav
+=--
 
-In `_config.yml` remember to specify your own data:
-    
-    title : My Blog =)
-    
-    author :
-      name : Name Lastname
-      email : blah@email.test
-      github : username
-      twitter : username
-
-The theme should reference these variables whenever needed.
-    
-## Sample Posts
-
-This blog contains sample posts which help stage pages and blog data.
-When you don't need the samples anymore just delete the `_posts/core-samples` folder.
-
-    $ rm -rf _posts/core-samples
-
-Here's a sample "posts list".
-
-<ul class="posts">
-  {% for post in site.posts %}
-    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
-</ul>
-
-## To-Do
-
-This theme is still unfinished. If you'd like to be added as a contributor, [please fork](http://github.com/plusjade/jekyll-bootstrap)!
-We need to clean up the themes, make theme usage guides with theme-specific markup examples.
++--	{.section}
+Social Networks
+========
+Contacting Twitter... 
+{:#twitter_update_list }
+=--
 
 
